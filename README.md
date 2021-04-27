@@ -1,3 +1,6 @@
+# Hi? 👋 My name is **Bruno**
+
+## I'm a Front-end developer, currently studying Software Engineering at Inatel (Instituto Nacional de Telecomunicações) at the 5th semester.
 
 ## 🚀💻 Technologies
 
