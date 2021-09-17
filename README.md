@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno</h1>
-<h3 align="center">A passionate web and mobile developer, currently studying Software Engineering at Inatel (Instituto Nacional de Telecomunicações) at the 6th semester.</h3>
+<h3>A passionate web and mobile developer, currently studying Software Engineering at Inatel (Instituto Nacional de Telecomunicações) at the 6th semester.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brunovollin" alt="brunovollin" /></a> </p>
 
