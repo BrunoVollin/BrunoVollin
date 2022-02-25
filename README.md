@@ -7,7 +7,7 @@
 
 - 🎓 Currently studying Software Engineering at Inatel at the 7th semester.
 - 🔭 I’m currently working at [CDG Hub Inatel](https://inatel.br/cdghub/)
-- 🚀 creating my tech startup
+- 🚀 Building my tech blockchain startup
 - 🧑‍🏫 I teach lab classes on Database 2 (noSQL databases) at Inatel
 - 📝 I regularly write articles on [CDG Hub Mobile](https://cookie-submarine-e90.notion.site/Mobile-eb12212247fb42738c82f0d3fe148e03) about Flutter
 - 💬 Ask me about **React, Flutter, Node.js, typescript, Python and MongoDB**
